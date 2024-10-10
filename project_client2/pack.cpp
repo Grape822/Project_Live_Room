@@ -5,7 +5,7 @@ Pack::Pack()
 {
     memset(m_buf, 0, 4096);
     m_count = 0;
-    m_size = 6;
+    m_size = 6;//
 }
 
 
